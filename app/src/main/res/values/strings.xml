@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">오징어만들기</string>
+    <!-- 하단의 '앱키'는 App등록 시 발급받은 '네이티브 앱 키'로 대체 -->
+    <string name="kakao_app_key">앱키</string>
+
+    <!-- 하단의 '앱키'는 App등록 시 발급받은 '네이티브 앱 키'로 대체 (kakao + 앱키 형태로 작성) -->
+    <string name="kakao_scheme">kakao앱키</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
